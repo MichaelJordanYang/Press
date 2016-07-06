@@ -2126,7 +2126,7 @@
 					"-lxml2",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "apple.--";
+				PRODUCT_BUNDLE_IDENTIFIER = com.897733537.cn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -2160,7 +2160,7 @@
 					"-lxml2",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "apple.--";
+				PRODUCT_BUNDLE_IDENTIFIER = com.897733537.cn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

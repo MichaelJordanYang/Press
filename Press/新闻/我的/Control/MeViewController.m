@@ -152,7 +152,7 @@
     };
     SettingItem *MoreAbout = [SettingArrowItem itemWithItem:@"MoreAbout" title:@"关于" VcClass:nil];
     MoreAbout.option = ^{
-        UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"关于我们" message:@"此项目只供技术交流，不能作为商业用途。\n邮箱:yugao5971@gmail.com\nGitHub:github.com/gaoyuhang" delegate:self cancelButtonTitle:nil otherButtonTitles:@"确定", nil];
+        UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"关于我们" message:@"此项目只供技术交流，不能作为商业用途。\n邮箱:13411932317@163.com\nGitHub:github.com/MichaelJordanYang" delegate:self cancelButtonTitle:nil otherButtonTitles:@"确定", nil];
         [alert show];
     };
     SettingGroup *group1 = [[SettingGroup alloc]init];
